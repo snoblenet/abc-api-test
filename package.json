@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "author": "Steven Noble <steven@snoble.net>",
+  "description": "ABC API test",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1",
+    "mocha": "3.2.0"
+  },
+  "scripts": {
+    "test": "mocha --timeout 1000"
+  }
+}
